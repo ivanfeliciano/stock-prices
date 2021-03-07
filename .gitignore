@@ -15,6 +15,7 @@ bin/
 project/
 target/
 build/
+data/
 
 # eclipse
 build
